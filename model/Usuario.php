@@ -2,7 +2,7 @@
 
 require_once 'Pessoa.php';
 
-class Usuario extends Pessoa{//ascessar herda  tudo de Pessoa
+class Usuario extends Pessoa{//acessar herda  tudo de Pessoa
     private $email;
     private $nascimento;
    
